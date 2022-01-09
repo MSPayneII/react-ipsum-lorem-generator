@@ -4,14 +4,14 @@
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
-  <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/3b2f7a37-bfbe-4468-afad-74c09e916c01/deploy-status" />
+  <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/d2dac801-64a9-4e33-b1f7-ef64708ec0b5/deploy-status" />
 </p>
 
 ## Reason for choosing this project:
 
 This was a simple hands-on React project provided by the John Smilga as part of his Udemy React Tutorial and Projects Course. This project was designed to help students become familiar with forms, useState, and React in general.
 
-### 🏠 [Homepage](https://mpayne-react-review-slider.netlify.app/)
+### 🏠 [Homepage](mspayneii-react-ipsum-lorem-gen.netlify.app)
 
 ## Functionality:
 
