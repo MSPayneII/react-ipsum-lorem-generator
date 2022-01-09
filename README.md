@@ -11,7 +11,7 @@
 
 This was a simple hands-on React project provided by the John Smilga as part of his Udemy React Tutorial and Projects Course. This project was designed to help students become familiar with forms, useState, and React in general.
 
-### 🏠 [Homepage](mspayneii-react-ipsum-lorem-gen.netlify.app)
+### 🏠 [Homepage](https://mspayneii-react-ipsum-lorem-gen.netlify.app/)
 
 ## Functionality:
 
